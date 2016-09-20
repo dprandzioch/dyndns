@@ -1,0 +1,11 @@
+{
+    "SharedSecret": "changeme",
+    "Server": "127.0.0.1",
+    "Zone": "dyndns.mydomain.com.",
+    "Domain": "dyndns.mydomain.com",
+    "NsupdateBinary": "/usr/bin/nsupdate",
+    "KeyFile": "/etc/namedb/Kdyndns.mydomain.com.+112+02345.private",
+    "UseProxy": false,
+    "ProxyRealAddress": "X-Forwarded-For",
+    "RecordTTL": 3600
+}
