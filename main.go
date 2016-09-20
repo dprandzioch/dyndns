@@ -1,10 +1,10 @@
 package main
 
 import (
-	"log"
+    "log"
     "log/syslog"
-	"fmt"
-	"net/http"
+    "fmt"
+    "net/http"
     "io/ioutil"
     "os"
     "bufio"
